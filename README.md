@@ -1,3 +1,3 @@
-# TatvaSoft Internship Project
+# ASP.NET/Angular Project
 
-=> ASP.net and PostgreSQL with JWT tokens for authorisation.
+=> ASP.net and PostgreSQL with JWT tokens for authorization.
